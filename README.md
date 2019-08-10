@@ -17,5 +17,5 @@ $ sudo pip install -e .
 
 # Usage
 ```
-$ trs <word>
+$ trs <word> [<word for highlight>]
 ```
